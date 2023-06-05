@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RafaelBroseghini
 - 👀 I’m interested in enjoying life; programming happens to be a way I get to enjoy life :)
-- 🌱 I’m currently learning `argocd`
-- 💞️ I’m looking to collaborate on `system(s) design` 
+- 🌱 I’m currently learning `a bunch of things`
 - 📫 How to reach me `https://www.linkedin.com/in/rafaelbroseghini/`
 
 <!---
