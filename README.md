@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Rafa!
-- 🍽️ Favorite Food: [Brazilian Strogonoff](https://braziliankitchenabroad.com/brazilian-beef-stroganoff/)
-- ⛰️ Favorite Place: [Rio](https://www.rio.com/practical-rio/ipanema-beach)
 - 📫 How to reach me -> [Linkedin](https://www.linkedin.com/in/rafaelbroseghini/)
   
 <!---
